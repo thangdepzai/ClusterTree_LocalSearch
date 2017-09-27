@@ -1,0 +1,93 @@
+cross = 2,localSearch = 0, seed = 1
+
+2816377.2679498754 82
+cross = 2,localSearch = 1, seed = 1
+
+2695130.9572642664 99
+cross = 2,localSearch = 2, seed = 1
+
+663451.0280246548 83
+cross = 2,localSearch = 0, seed = 2
+
+2824705.2323097037 84
+cross = 2,localSearch = 1, seed = 2
+
+2583205.4452759624 96
+cross = 2,localSearch = 2, seed = 2
+
+664767.5173033013 81
+cross = 2,localSearch = 0, seed = 3
+
+2847215.475093999 1861
+cross = 2,localSearch = 1, seed = 3
+
+2641855.651604625 101
+cross = 2,localSearch = 2, seed = 3
+
+664570.1271486955 80
+cross = 2,localSearch = 0, seed = 4
+
+2348588.622873159 82
+cross = 2,localSearch = 1, seed = 4
+
+1977215.459618905 96
+cross = 2,localSearch = 2, seed = 4
+
+661994.527057143 83
+cross = 2,localSearch = 0, seed = 5
+
+2330307.369543572 81
+cross = 2,localSearch = 1, seed = 5
+
+2147910.039036374 98
+cross = 2,localSearch = 2, seed = 5
+
+664526.2603497381 83
+cross = 1,localSearch = 0, seed = 1
+
+2816936.8736231094 82
+cross = 1,localSearch = 1, seed = 1
+
+2825132.4302734095 99
+cross = 1,localSearch = 2, seed = 1
+
+664020.6631485771 83
+cross = 1,localSearch = 0, seed = 2
+
+2830032.323833167 84
+cross = 1,localSearch = 1, seed = 2
+
+2584523.8305503135 97
+cross = 1,localSearch = 2, seed = 2
+
+667417.0798254266 81
+cross = 1,localSearch = 0, seed = 3
+
+2848204.9500835813 82
+cross = 1,localSearch = 1, seed = 3
+
+2642821.619309385 100
+cross = 1,localSearch = 2, seed = 3
+
+665384.7116496982 82
+cross = 1,localSearch = 0, seed = 4
+
+2349333.63176142 86
+cross = 1,localSearch = 1, seed = 4
+
+1978363.3232668752 99
+cross = 1,localSearch = 2, seed = 4
+
+662853.2106494523 82
+cross = 1,localSearch = 0, seed = 5
+
+2331149.2195419557 703
+cross = 1,localSearch = 1, seed = 5
+
+2149238.047703597 98
+cross = 1,localSearch = 2, seed = 5
+
+663443.4715037782 83
+cross = 1,localSearch = 0, seed = 5
+
+2331149.2195419557 88

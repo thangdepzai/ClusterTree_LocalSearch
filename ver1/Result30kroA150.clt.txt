@@ -1,0 +1,90 @@
+cross = 2,localSearch = 0, seed = 1
+
+578254.2870191351 15
+cross = 2,localSearch = 1, seed = 1
+
+500081.8298295678 17
+cross = 2,localSearch = 2, seed = 1
+
+287619.54510201834 15
+cross = 2,localSearch = 0, seed = 2
+
+666936.0782235184 15
+cross = 2,localSearch = 1, seed = 2
+
+560592.4584951252 16
+cross = 2,localSearch = 2, seed = 2
+
+286894.66359360947 15
+cross = 2,localSearch = 0, seed = 3
+
+648269.4670944302 16
+cross = 2,localSearch = 1, seed = 3
+
+555808.1034677539 17
+cross = 2,localSearch = 2, seed = 3
+
+288060.4532803014 15
+cross = 2,localSearch = 0, seed = 4
+
+665330.6213830177 15
+cross = 2,localSearch = 1, seed = 4
+
+539005.5344138102 17
+cross = 2,localSearch = 2, seed = 4
+
+290579.2710723298 14
+cross = 2,localSearch = 0, seed = 5
+
+619090.5663225253 14
+cross = 2,localSearch = 1, seed = 5
+
+583272.2699926283 16
+cross = 2,localSearch = 2, seed = 5
+
+290879.9747476574 15
+cross = 1,localSearch = 0, seed = 1
+
+578254.2870191351 15
+cross = 1,localSearch = 1, seed = 1
+
+500081.8298295678 17
+cross = 1,localSearch = 2, seed = 1
+
+287619.54510201834 15
+cross = 1,localSearch = 0, seed = 2
+
+666936.0782235184 15
+cross = 1,localSearch = 1, seed = 2
+
+560592.4584951252 17
+cross = 1,localSearch = 2, seed = 2
+
+286894.66359360947 15
+cross = 1,localSearch = 0, seed = 3
+
+648269.4670944302 15
+cross = 1,localSearch = 1, seed = 3
+
+555808.1034677539 17
+cross = 1,localSearch = 2, seed = 3
+
+288558.0753116568 15
+cross = 1,localSearch = 0, seed = 4
+
+665330.6213830177 16
+cross = 1,localSearch = 1, seed = 4
+
+539005.5344138102 17
+cross = 1,localSearch = 2, seed = 4
+
+289370.3124392758 15
+cross = 1,localSearch = 0, seed = 5
+
+619090.5663225253 15
+cross = 1,localSearch = 1, seed = 5
+
+583272.2699926283 17
+cross = 1,localSearch = 2, seed = 5
+
+288622.8417003484 15
